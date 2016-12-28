@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aem-ecommerce-accelerator - UI content</comment>
+<entry key="createdBy">Andrii_Manuiev</entry>
+<entry key="name">ecommerce-accelerator.ui.content</entry>
+<entry key="created">2016-12-28T17:22:33.573+0200</entry>
+<entry key="groupId">com.epam.aem</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">EPM AEM Accelerator</entry>
+<entry key="description">UI content package for aem-ecommerce-accelerator</entry>
+<entry key="artifactId">ecommerce-accelerator.ui.content</entry>
+<entry key="path">/etc/packages/EPM AEM Accelerator/ecommerce-accelerator.ui.content.zip</entry>
+</properties>

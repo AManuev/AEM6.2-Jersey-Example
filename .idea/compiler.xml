@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ecommerce-accelerator.core" />
+        <module name="ecommerce-accelerator.it.launcher" />
+        <module name="ecommerce-accelerator.it.tests" />
+        <module name="ecommerce-accelerator.ui.apps" />
+        <module name="ecommerce-accelerator.ui.content" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ecommerce-accelerator" target="1.6" />
+      <module name="ecommerce-accelerator.core" target="1.8" />
+      <module name="ecommerce-accelerator.it.launcher" target="1.6" />
+      <module name="ecommerce-accelerator.it.tests" target="1.6" />
+      <module name="ecommerce-accelerator.ui.apps" target="1.6" />
+      <module name="ecommerce-accelerator.ui.content" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

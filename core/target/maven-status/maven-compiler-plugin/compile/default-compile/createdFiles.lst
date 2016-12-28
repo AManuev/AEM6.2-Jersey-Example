@@ -1,0 +1,9 @@
+com\epam\aem\core\package-info.class
+com\epam\aem\core\listeners\SimpleResourceListener.class
+com\epam\aem\core\schedulers\SimpleScheduledTask.class
+com\epam\aem\core\jackson\MyService.class
+com\epam\aem\core\servlets\SimpleServlet.class
+com\epam\aem\core\filters\LoggingFilter.class
+com\epam\aem\core\jackson\MyService2.class
+com\epam\aem\core\models\HelloWorldModel.class
+com\epam\aem\core\jackson\MyService2$1.class
